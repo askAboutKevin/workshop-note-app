@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "Updated note",
+        "content": "This note has been updated"
+    },
+    {
+        "id": 1,
+        "title": "New note",
+        "content": "This is a new note"
+    }
+]
